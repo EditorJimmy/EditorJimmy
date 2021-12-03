@@ -1,3 +1,5 @@
+#Source Control Auto Sync test by Jimmy
+
 Param(
  [string]$resourceGroup,
  [string]$VMName,
